@@ -4,3 +4,4 @@ Online-zoo - is a platform where information about animals from various zoos wit
 
 
 Figma: [PetStory-online](https://www.figma.com/file/Q3GeYxuYzNAYFhqZODikZy/online-zoo-3-weeks-(rikkimonti)?node-id=0%3A1)
+deploy:[PetStory-online](https://rolling-scopes-school.github.io/rikomani84-JSFE2022Q3/online-zoo-week-two/pages/landing/)
